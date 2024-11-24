@@ -1,3 +1,3 @@
 # Valentines Day
 
-## Projeto criado de forma pessoal.
+## Projeto criado para uso pessoal.
