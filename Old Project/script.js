@@ -1,3 +1,4 @@
+//Criando a chuva de corações
 document.addEventListener('DOMContentLoaded', () => {
     function createHeart() {
         const heart = document.createElement('div');
