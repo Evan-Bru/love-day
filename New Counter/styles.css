@@ -1,0 +1,29 @@
+body{
+    width: 1280px;
+    height: 832px;
+    flex-shrink: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column; /*garantia que os itens vão ficar um em cima do outro*/
+    justify-content: flex-start;  /* Ajuste para garantir que os elementos fiquem no topo */
+    align-items: center;
+    background-image: url(image.png);
+    background: cover-no-repeat;
+    opacity: 0.8;
+}
+
+/*adicionando uma fonte custom*/
+@font-face {
+    font-family: 'Valentine'; /* Name your font family */
+    src: url('./valentine.ttf'); /* Locate the .ttf file within your directory*/
+  } 
+
+
+#header{
+    color: #FFF;
+    font-family: Valentine;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
