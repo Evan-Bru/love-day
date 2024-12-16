@@ -41,11 +41,11 @@ body::before {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 #counter{
-    margin-top: 20px;
+    margin-top: 10px;
     width: 389.062px;
     color: #FFF;
     text-align: center;
@@ -79,7 +79,7 @@ body::before {
 }
 
 #footer {
-    margin-top: 100px;
+    margin-top: 80px;
     color: #FFF;
     font-family: 'Valentine';
     font-size: 32px;
